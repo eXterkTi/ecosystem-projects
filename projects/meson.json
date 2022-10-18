@@ -1,0 +1,15 @@
+{
+  "name": "Meson",
+  "slug": "meson",
+  "tags": ["meson","infrastructure","bridge","multi-chain"],
+  "status": "live",
+  "highlight": "Meson is the faster and safer way to execute low-cost, zero-slippage stablecoin cross-chain swaps between Avalanche and other 16 leading blockchains and layer-2 rollups.",
+  "logo": "/img/meson.svg",
+  "website": "https://meson.fi/",
+  "twitter": "https://twitter.com/mesonfi",
+  "telegram": "https://t.me/mesonfi",
+  "github": "https://github.com/mesonfi",
+  "discord": "https://discord.gg/meson",
+  "summary": "Meson is a stablecoin swap protocol facilitating stablecoin free flows among Ethereum, Layer 2s, and major high-performance public chains. With its all-new product design and technology stacks, Meson offers point-to-point swaps among major stablecoins on any supported networks with fast confirmation, minimal fees and zero slippage.",
+  "docs": "https://docs.meson.fi"
+}
